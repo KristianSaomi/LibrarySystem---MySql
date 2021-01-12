@@ -2,8 +2,15 @@
 
 File names
 __________________
-MySql = Database 
-Appikation45 (JDBC) connect with JDBC connector = for mySql to work
+MySql.sql - Database structure
+
+Normalisering.xlsx - TDE-Scheduele over the files
+
+SlutUppgiftDel2.java - no SQL (MongoDb file)
+
+author.json - Json file for sample data to noMongo (Compase)
+
+javaapplication45.java - Application JDBC - for mySQL
 
 /*Kristian Saomi*/
 _____________________________
