@@ -1,5 +1,10 @@
 # LibrarySystem---MySql & noSql MongoDb
 
+File names
+__________________
+MySql = Database 
+Appikation45 (JDBC) connect with JDBC connector = for mySql to work
+
 /*Kristian Saomi*/
 _____________________________
 Library system for MySql and noMongo
