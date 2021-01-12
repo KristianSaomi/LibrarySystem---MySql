@@ -8,7 +8,7 @@ public class javaapplication45 {
 
     private static final String url = "jdbc:mysql://localhost:3306/BookDealer2?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
     private static final String user = "root";
-    private static final String password = "Elzouki12!";
+    private static final String password = ""; /*add pasword here betwen ""*/
     private static Scanner input = new Scanner(System.in);
     private static Statement st = null;
     private static ResultSet rs = null;
