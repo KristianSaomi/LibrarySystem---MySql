@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "5ff5a625ee33cc46d6ba84c6"
+  },
+  "Book title": "The Hobbit",
+  "Book grade": "4",
+  "Book author": [
+    "J. R. R. Tolkien"
+  ],
+  "Book release year": 2006
+},{
+  "_id": {
+    "$oid": "5ff5a67aee33cc46d6ba84c7"
+  },
+  "Book title": "Moby dick",
+  "Book grade": "5",
+  "Book author": [
+    "Herman Melville"
+  ],
+  "Book release year": 1851
+},{
+  "_id": {
+    "$oid": "5ff5a6bfee33cc46d6ba84c8"
+  },
+  "Book title": "Twilight",
+  "Book grade": "5",
+  "Book author": [
+    "Stephenie Meyer"
+  ],
+  "Book release year": 2005
+},{
+  "_id": {
+    "$oid": "5ff5a701ee33cc46d6ba84c9"
+  },
+  "Book title": "Handbook for Mortals",
+  "Book grade": "1",
+  "Book author": [
+    "Lani Sarem"
+  ],
+  "Book release year": 2017
+},{
+  "_id": {
+    "$oid": "5ff5a734ee33cc46d6ba84ca"
+  },
+  "Book title": "Revealing Eden",
+  "Book grade": "2",
+  "Book author": [
+    "Victoria Foyt"
+  ],
+  "Book release year": 2011
+},{
+  "_id": {
+    "$oid": "5ff5a760ee33cc46d6ba84cb"
+  },
+  "Book title": "The Almost Moon",
+  "Book grade": "3",
+  "Book author": [
+    "Alice Sebold"
+  ],
+  "Book release year": 2007
+},{
+  "_id": {
+    "$oid": "5ff5a82dee33cc46d6ba84cc"
+  },
+  "Book title": "Tiny pretty things",
+  "Book grade": "5",
+  "Book author": [
+    "Sona Charaipotra",
+    "Dhonielle Clayton"
+  ],
+  "Book release year": 2015
+}]
